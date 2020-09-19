@@ -1,7 +1,7 @@
 function sleep(milliseconds) {
     var start = new Date().getTime();
     let isDone = false;
-    while(!boo){
+    while(!isDone){
         if ((new Date().getTime() - start) > milliseconds){
             isDone = true;
         }
