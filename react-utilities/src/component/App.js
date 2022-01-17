@@ -7,18 +7,18 @@ var $r = React.createElement;
 var radioButtonList = [
   {
     "name":"1",
-    "value":"Delimited",
-    "label" :"Delimited"
+    "value":"Banana",
+    "label" :"Banana"
     },
     {
       "name":"2",
-      "value":"Fixed Width",
-      "label" :"Fixed Width"
+      "value":"Apple",
+      "label" :"Apple"
     },
     {
       "name":"3",
-      "value":"Avro",
-      "label" :"Avro"
+      "value":"Kiwi",
+      "label" :"Kiwi"
     }
 ];
 
